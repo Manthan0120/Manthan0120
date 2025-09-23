@@ -1,8 +1,3 @@
-<!-- Clean banner (replace with your own hosted image if desired) -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop" alt="Header" width="860" />
-</p>
-
 <!-- Name + compact subtitle with emoji -->
 <h3 align="center">Manthan Surjuse</h3>
 <p align="center">🤖 Practical ML • 🧠 CV & HCI • 🛠️ Clean data pipelines</p>
@@ -42,20 +37,13 @@
 - Streamlining dashboards and analysis flows; trimming dependencies and improving clarity [file:21].  
 - Reading on observability patterns and practical evaluation for LLM/RAG systems [file:21].  
 
-<!-- Compact “at a glance” with emoji icons -->
 ### At a glance
 - 🧪 Modeling: regression, clustering, segmentation; AUC/RMSE + error slicing to learn from failures [file:21].  
 - 📦 Data: Pandas, NumPy; Postgres/MySQL; BIDS for reproducible structure [file:21].  
 - 🖥️ Tools: PyTorch, TensorFlow, scikit‑learn; OpenCV; R/Shiny; Docker; Git‑based CI [file:21].  
 
-<!-- Optional: minimal stat cards in a collapsible block -->
 <details>
   <summary>Activity</summary>
   <br />
   <img alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=[your-username]&hide_title=true&hide_rank=true&show_icons=false&disable_animations=true&hide=prs,issues,contribs&theme=default&custom_title= " />
-</details>
-
-<!-- Soft footer -->
-<p align="center"><sub>Less, but better.</sub></p>
-
+       src="https://github-readme-stats.vercel.app/api?username=[your-username]&hide_title=true&hide_rank=true&show_icons=false&disable_animations=true&hide=prs,issues,contribs&theme=default
