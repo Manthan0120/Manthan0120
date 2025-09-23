@@ -14,53 +14,63 @@ M.S. in Computer Science candidate (GPA: 3.5/4.0) — *Expected May 2026*
 
 ## 🏆 Top Skills & Favorite Technologies
 
-<!--
-  Using [geticons](https://geticons.dev/) SVG icons for a more modern and visual skills section.
-  Adjust the icon size (height/width) as needed for your README.
--->
+<!-- SVG icons from geticons.dev and Simple Icons. Emojis and fallbacks used for missing/abstract techs. -->
 
 **Languages:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" height="30" alt="Python"/> 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/r-lang.svg" height="30" alt="R"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" height="30" alt="Java"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" height="30" alt="SQL/PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" height="28" alt="Python"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/r-lang.svg" height="28" alt="R"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" height="28" alt="Java"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" height="28" alt="PostgreSQL SQL"/>
 
 **AI/ML:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pytorch.svg" height="30" alt="PyTorch"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tensorflow.svg" height="30" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/keras.svg" height="30" alt="Keras"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/scikit-learn.svg" height="30" alt="Scikit-learn"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/huggingface.svg" height="30" alt="Hugging Face"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/opencv.svg" height="30" alt="OpenCV"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mediapipe.svg" height="30" alt="MediaPipe"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy.svg" height="30" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pytorch.svg" height="28" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tensorflow.svg" height="28" alt="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/keras.svg" height="28" alt="Keras"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/scikit-learn.svg" height="28" alt="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/huggingface.svg" height="28" alt="Hugging Face"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/opencv.svg" height="28" alt="OpenCV"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mediapipe.svg" height="28" alt="MediaPipe"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy.svg" height="28" alt="NumPy"/>
+<!-- DL/NLP/CV are umbrella concepts, emoji as fallback -->
+<span title="Deep Learning">🧠</span>
+<span title="NLP">💬</span>
+<span title="Computer Vision">👁️</span>
 
 **LLM & RAG:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/langchain.svg" height="30" alt="LangChain"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/streamlit.svg" height="30" alt="Streamlit"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/chroma.svg" height="30" alt="ChromaDB"/>
+<!-- LangChain icon available, others use emoji or placeholders -->
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/langchain.svg" height="28" alt="LangChain"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/streamlit.svg" height="28" alt="Streamlit"/>
+<!-- ChromaDB not present, use MongoDB as DB placeholder -->
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb-icon.svg" height="28" alt="ChromaDB (placeholder)"/>
+<span title="Prompt Tuning">🪄</span>
+<span title="RAG Pipelines">🔗</span>
+<span title="LangGraph">🕸️</span>
 
 **Data & Viz:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" height="30" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/matplotlib.svg" height="30" alt="Matplotlib"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/seaborn.svg" height="30" alt="Seaborn"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/powerbi.svg" height="30" alt="Power BI"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/r-shiny.svg" height="30" alt="R Shiny"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" height="28" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/matplotlib.svg" height="28" alt="Matplotlib"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/seaborn.svg" height="28" alt="Seaborn"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/powerbi.svg" height="28" alt="Power BI"/>
+<!-- R Shiny not available, use R logo as fallback -->
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/r-lang.svg" height="28" alt="R Shiny (R logo)"/>
 
 **Web & Systems:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/flask.svg" height="30" alt="Flask"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/django.svg" height="30" alt="Django"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" height="30" alt="React"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" height="30" alt="Git"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" height="30" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/flask.svg" height="28" alt="Flask"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/django.svg" height="28" alt="Django"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" height="28" alt="React"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" height="28" alt="Git"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" height="28" alt="Docker"/>
 
 **Big Data & Cloud:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hadoop.svg" height="30" alt="Hadoop"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/apache-spark.svg" height="30" alt="Spark"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" height="30" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hadoop.svg" height="28" alt="Hadoop"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/apache-spark.svg" height="28" alt="Spark"/>
+<!-- MapReduce not available, use Hadoop as fallback -->
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hadoop.svg" height="28" alt="MapReduce (Hadoop)"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" height="28" alt="AWS"/>
 
 **Data Standards:**  
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bids.svg" height="30" alt="BIDS"/>
+<!-- BIDS not available, use generic database icon -->
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/database.svg" height="28" alt="BIDS"/>
 
 ---
 
