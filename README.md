@@ -1,49 +1,78 @@
-<!-- HERO -->
-<h1 align="center">Manthan Surjuse</h1>
-<p align="center">MS CS @ Illinois Tech · Machine Learning · Computer Vision · NLP</p>
+# 👋 Hi, I'm Manthan
 
-<p align="center">
-  <a href="mailto:manthansje10@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-1f6feb?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://manthan0120.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-2da44e?logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://github.com/Manthan0120">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Manthan0120-111?logo=github">
-  </a>
-</p>
+**Machine Learning and Computer Vision graduate student building practical AI systems for human behavior understanding, data-driven products, and interactive analytics.**
 
-<!-- BIG ICON BELT (image icons so it works in README) -->
-<p align="center">
-  <img alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="PyTorch" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img alt="TensorFlow" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img alt="OpenCV" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-  <img alt="Docker" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img alt="AWS" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-</p>
+---
 
-<!-- ACCENT LINE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Now-RAG·LangChain·LangGraph·Vector%20DBs-7c3aed">
-</p>
+## 👨‍💻 Profession
 
-### Selected work
-- 🤖 AI‑Job‑Resume‑Matcher — LangChain RAG chatbot; Streamlit; ~90% match accuracy.  
-  <sub><sup>RAG • LangChain • ChromaDB</sup></sub>
+**Graduate Research Assistant**  
+Social Spatial Interaction Lab, Illinois Institute of Technology  
+M.S. in Computer Science candidate (GPA: 3.5/4.0) — *Expected May 2026*
 
-- 🌞 Rooftop Solar Estimation — UNet segmentation; tilt/orientation/shadows; ~83% accuracy.  
-  <sub><sup>UNet • Segmentation • CV</sup></sub>
+---
 
-- 🤟 Sign Language Recognition — Real‑time ASL with OpenCV + MediaPipe + CNN; ~84% accuracy.  
-  <sub><sup>OpenCV • MediaPipe • CNN</sup></sub>
+## 🏆 Top Skills & Favorite Technologies
 
-### Focus
-- RAG • LangChain • LangGraph  
-- Vector DBs • Trustworthy ML • Visual Computing
+**Languages:** Python, R, Java, SQL  
+**AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Deep Learning, NLP, Computer Vision  
+**LLM & RAG:** LangChain, LangGraph, Streamlit, vector DBs (ChromaDB), prompt tuning, RAG pipelines  
+**Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, R Shiny  
+**Web & Systems:** Flask, Django, React.js, Git, Docker  
+**Big Data & Cloud:** Hadoop, Spark, MapReduce, AWS (EC2, S3, Hadoop clusters)  
+**Data Standards:** BIDS for behavioral/VR datasets
 
-### Light stats
-<p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Manthan0120&show_icons=true&hide_title=true&hide=issues,prs&rank_icon=github&include_all_commits=true&count_private=true">
-</p>
+---
+
+## 🚀 Featured Projects
+
+- **AI-powered Resume–Job Match Chatbot**  
+  *LangChain + OpenAI with RAG and cosine similarity; Streamlit app; vector DB; ~90% match accuracy on test profiles; incorporated feedback loops for relevance.*
+
+- **Rooftop Solar Potential Estimation**  
+  *UNet segmentation on satellite imagery to estimate tilt/orientation/shadows; energy forecasts for 2,000+ rooftops with ~83% accuracy; Flask backend, Recharts visuals.*
+
+- **Real-time Sign Language Recognition**  
+  *OpenCV + MediaPipe + CNN (TensorFlow/Keras); converts hand gestures to text/speech via Pyttsx3; ~84% accuracy on 24 ASL gestures with real-time inference.*
+
+---
+
+## 💼 Recent Experience Highlights
+
+- **Research Assistant (Jan 2025–Present):**  
+  Built preprocessing pipelines for human motion and gaze data; standardized to BIDS to cut ML prep time by ~40%; regression and clustering for trust/gaze prediction from VR datasets; delivered interactive analysis site in R Shiny for experiment exploration.
+
+- **Web Developer Intern (Feb 2023–Apr 2023):**  
+  Full‑stack food delivery app (Flask/Django + React); secure CRUD over MySQL; Git-based CI/CD; agile sprints for iterative releases.
+
+- **Machine Learning Intern (Aug 2022–Oct 2022):**  
+  Loan approval models (Random Forests/Decision Trees) with +20% accuracy; SQL/Pandas EDA reduced processing time by 18%; user-based collaborative filtering drove ~15% engagement lift; presented results with AUC/RMSE and feature importance.
+
+---
+
+## 📜 Certifications
+
+- Machine Learning with Python (AWS)
+- Google Data‑Driven Decisions
+- Google Foundations: Data, Data Everywhere
+- LLM Engineering (Udemy)
+
+---
+
+## 🌐 Social Links
+
+**Email:** manthansje10@gmail.com  
+**Phone:** 872‑664‑0935  
+**LinkedIn:** [Add exact URL in config]  
+**GitHub:** [Add exact URL in config]  
+**Personal Site:** (Add if available to centralize projects and publications)
+
+---
+
+## 🎸 Hobbies & Fun Facts
+
+- Enjoys end‑to‑end building: from ML pipelines and model training to web deployment and dashboards.
+- Loves to play guitar and create music.
+- Into fitness, reading, and photography.
+
+---
