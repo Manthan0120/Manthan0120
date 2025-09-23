@@ -1,48 +1,40 @@
-Hi, I'm Manthan Surjuse 👋
-MS CS @ Illinois Tech - Machine Learning, Computer Vision, NLP - Building data/ML systems and human-centered AI
+<h1 align="center">Manthan Surjuse</h1>
+<p align="center">MS CS @ Illinois Tech · ML · CV · NLP</p>
 
-Research Assistant at Social Spatial Interaction Lab (IIT Chicago): ML on VR motion + gaze data, BIDS data pipelines, interactive R Shiny visualizations
+<p align="center">
+  <a href="mailto:manthansje10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <a href="https://github.com/Manthan0120"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Manthan0120-black?logo=github"></a>
+  <a href="https://manthan0120.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-forestgreen?logo=vercel"></a>
+</p>
 
-Previously: Web Dev Intern (Flask/Django/React/MySQL/CI/CD), ML Intern (classification, recsys, metrics-driven delivery)
+<p align="center">
+  Building data/ML systems and human-centered AI. Researching VR motion + gaze ML and BIDS data workflows.  
+</p>
 
-Currently exploring: RAG systems, LangChain/LangGraph, vector DBs, trustworthy ML, and visual computing
+### Highlights
+- Research Assistant, Social Spatial Interaction Lab: VR motion+gaze ML, BIDS pipelines, R Shiny insights. [attached_file:1]
+- Projects in RAG, visual computing, trustworthy ML; practical MLOps and data engineering. [attached_file:1]
+- Past: Full‑stack web (Flask/Django/React) and ML internships (recsys, metrics‑driven delivery). [attached_file:1]
 
-Featured projects
-AI-Job-Resume-Matcher — LangChain RAG chatbot matching resumes to job descriptions; Streamlit app; ~90% test-match accuracy; vector DB + prompt tuning
+### Featured projects
+- AI‑Job‑Resume‑Matcher — LangChain RAG chatbot; Streamlit; ~90% test‑match accuracy. [attached_file:1]
+- Rooftop Solar Estimation — UNet rooftop segmentation; ~83% accuracy. [attached_file:1]
+- Sign Language Recognition — Real‑time ASL with OpenCV + MediaPipe + CNN; ~84% accuracy. [attached_file:1]
 
-Rooftop Solar Estimation — UNet rooftop segmentation; tilt/orientation/shadow features; energy forecasts for 2,000+ rooftops (~83% model accuracy)
+### Skills
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+</p>
 
-Sign Language Recognition — Real-time ASL gestures with OpenCV + MediaPipe + CNN; text-to-speech; ~84% accuracy on 24 gestures
-
-Skills
-Languages: Python, R, Java, SQL
-
-ML/DL: PyTorch, TensorFlow, Keras, scikit-learn; CV (OpenCV, MediaPipe); NLP; RAG
-
-Data/Infra: Pandas, NumPy, Matplotlib/Seaborn, Power BI, Docker, Git
-
-Web/Backend: Flask, Django, React.js
-
-Big Data & Cloud: Hadoop, Spark, MapReduce; AWS EC2/S3; Databases: MySQL, SQLite, ChromaDB
-
-Experience snapshots
-Social Spatial Interaction Lab — Built BIDS-compliant pipelines; reduced prep time by ~40%; regression + clustering for trust and gaze prediction in VR; R Shiny analytics
-
-TechR Business Solutions — Full-stack food delivery app; secure CRUD; Git-based CI/CD; agile collaboration
-
-E-Cell IIT Hyderabad — Loan approval models with Random Forests/DT; SQL/Pandas EDA; user-based collaborative filtering; AUC/RMSE-focused reporting
-
-Education
-Illinois Institute of Technology — MS Computer Science (GPA 3.5/4.0), Expected May 2026
-
-Certifications
-ML with Python (AWS); Data-driven Decisions + Foundations: Data, Everywhere (Google); LLM Engineering: LLMs & Agents (Udemy)
-
-Get in touch
-Email: manthansje10@gmail.com | Chicago, IL 
-
-Portfolio (soon): manthan0120.github.io
-"
-
-Optional next step: portfolio site
-Create public repo “manthan0120.github.io”, enable Pages from main branch, and add an index.html to launch a portfolio; this will publish at the root domain after a short delay.
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manthan0120&show_icons=true&hide_title=true&hide_rank=true&theme=default&hide=issues&include_all_commits=true&count_private=true">
+</p>
