@@ -1,0 +1,50 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0d1a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4d9fff"/>
+      <stop offset="100%" style="stop-color:#7dd3fc"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="0"/>
+  <!-- Grid lines subtle -->
+  <line x1="0" y1="55" x2="900" y2="55" stroke="#1a2744" stroke-width="0.5"/>
+  <line x1="0" y1="110" x2="900" y2="110" stroke="#1a2744" stroke-width="0.5"/>
+  <line x1="0" y1="165" x2="900" y2="165" stroke="#1a2744" stroke-width="0.5"/>
+  <line x1="225" y1="0" x2="225" y2="220" stroke="#1a2744" stroke-width="0.5"/>
+  <line x1="450" y1="0" x2="450" y2="220" stroke="#1a2744" stroke-width="0.5"/>
+  <line x1="675" y1="0" x2="675" y2="220" stroke="#1a2744" stroke-width="0.5"/>
+  <!-- Accent bar left -->
+  <rect x="0" y="0" width="4" height="220" fill="url(#accent)"/>
+  <!-- Node dots at intersections -->
+  <circle cx="225" cy="55" r="2" fill="#1a2744"/>
+  <circle cx="450" cy="55" r="2" fill="#1a2744"/>
+  <circle cx="675" cy="55" r="2" fill="#1a2744"/>
+  <circle cx="225" cy="110" r="2" fill="#1a2744"/>
+  <circle cx="675" cy="110" r="2" fill="#1a2744"/>
+  <circle cx="225" cy="165" r="2" fill="#1a2744"/>
+  <circle cx="450" cy="165" r="2" fill="#1a2744"/>
+  <circle cx="675" cy="165" r="2" fill="#1a2744"/>
+  <!-- Glowing accent circle behind name -->
+  <circle cx="450" cy="105" r="120" fill="#4d9fff" fill-opacity="0.03"/>
+  <circle cx="450" cy="105" r="80" fill="#4d9fff" fill-opacity="0.04"/>
+  <!-- Name -->
+  <text x="450" y="88" font-family="'Segoe UI', system-ui, sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" filter="url(#glow)">Manthan Surjuse</text>
+  <!-- Accent underline -->
+  <rect x="310" y="95" width="280" height="2" fill="url(#accent)" rx="1"/>
+  <!-- Role line -->
+  <text x="450" y="128" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#7dd3fc" text-anchor="middle" letter-spacing="3">MACHINE LEARNING ENGINEER</text>
+  <!-- Tags -->
+  <text x="450" y="162" font-family="'Courier New', monospace" font-size="12" fill="#4a6080" text-anchor="middle" letter-spacing="1">RAG  ·  LLMs  ·  Federated Learning  ·  Azure OpenAI  ·  Chicago</text>
+  <!-- Bottom accent bar -->
+  <rect x="0" y="216" width="900" height="4" fill="url(#accent)"/>
+</svg>
